@@ -1,2 +1,0 @@
-# larrywebsite
-larry personal website
