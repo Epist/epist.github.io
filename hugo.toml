@@ -11,11 +11,11 @@ disableHugoGeneratorInject = false
 enableEmoji = true
 
 [params]
-ava = "/img/cat.png"
-owner ="Red Kitty"
+ava = "/img/larry-shadow.jpg"
+owner ="Larry Muhlstein"
 talk = "Hello guys &#128075; im cool kitty..."
 blogSection = ["blog"]
-description = "Cat"
+description = "Larry Muhlstein Personal Site"
 favicon = "/img/logo.svg"
 
 [[menu.main]]
