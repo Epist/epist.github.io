@@ -1,6 +1,6 @@
 baseURL = 'https://larrymuhlstein.com'
 languageCode = 'en-us'
-title = 'Larry Mulhstein'
+title = 'larry muhlstein'
 theme = 'hugo-cat'
 
 PygmentsCodeFences = true
@@ -12,10 +12,10 @@ enableEmoji = true
 
 [params]
 ava = "/img/larry-shadow.jpg"
-owner ="Larry Muhlstein"
+owner ="larry muhlstein"
 talk = "Hello guys &#128075; im cool kitty..."
 blogSection = ["blog"]
-description = "Larry Muhlstein Personal Site"
+description = "larry muhlstein personal site"
 favicon = "/img/logo.svg"
 
 [[menu.main]]
