@@ -1,5 +1,5 @@
 +++
-title = 'Vision'
+title = 'vision'
 date = 2024-08-19T13:38:39-04:00
 draft = false
 layout = 'staticpage'

@@ -14,28 +14,28 @@ enableEmoji = true
 ava = "/img/larry-shadow.jpg"
 owner ="larry muhlstein"
 talk = "Hello guys &#128075; im cool kitty..."
-blogSection = ["blog"]
+blogSection = ["perspective"]
 description = "larry muhlstein personal site"
-favicon = "/img/logo.svg"
+favicon = "/img/favicon.ico"
 
 [[menu.main]]
-name = "Home"
+name = "etiology"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Vision"
+name = "vision"
 url = "/vision/"
 weight = 2
 
 [[menu.main]]
-name = "Dharma"
+name = "dharma"
 url = "/dharma/"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-url = "/blog/"
+name = "perspective"
+url = "/perspective/"
 weight = 4
 
 [module]
