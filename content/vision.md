@@ -5,8 +5,6 @@ draft = false
 layout = 'staticpage'
 +++
 
-Paragraph about my work
-
 We can heal the world by deepening our understanding and by guiding it with respect and moving with will.
 Technologies of togetherness.
 Living by following our hearts and walking the path as best we can.
