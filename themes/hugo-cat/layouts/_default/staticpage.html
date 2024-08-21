@@ -1,8 +1,13 @@
 {{ define "main" }}
 <div class="staticpage">
   <article>
-    <h2 class="head-blog">{{ .Title }}</h2>
-    <div class="container">{{ .Content }}</div>
+    <!-- <h2 class="head-blog">{{ .Title }}</h2> -->
+
+    <div class="container">
+      {{ if isset .Params "tagline" }}
+      <h3 class="tagline">{{ .Params.tagline }}</h3>
+      {{ end }} {{ .Content }}
+    </div>
   </article>
 </div>
 {{ end }}
