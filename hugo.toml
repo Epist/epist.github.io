@@ -15,7 +15,7 @@ ava = "/img/larry-shadow.jpg"
 owner ="larry muhlstein"
 talk = "Hello guys &#128075; im cool kitty..."
 blogSection = ["perspective"]
-description = "larry muhlstein personal site"
+# description = "larry muhlstein personal site"
 favicon = "/img/favicon.ico"
 
 [[menu.main]]
