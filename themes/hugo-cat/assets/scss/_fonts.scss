@@ -3,5 +3,21 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/fonts/andika.woff2") format("woff2");
+  src: url("/fonts/Andika-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Andika";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/Andika-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ShadowsIntoLight";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/ShadowsIntoLight-Regular.woff2") format("woff2");
 }

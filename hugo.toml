@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = 'larry muhlstein'
 theme = 'hugo-cat'
 
-PygmentsCodeFences = true
-PygmentsStyle = "solarized-dark256"
+# PygmentsCodeFences = true
+# PygmentsStyle = "solarized-dark256"
 pluralizelisttitles = "false"
 paginate  = 15
 disableHugoGeneratorInject = false

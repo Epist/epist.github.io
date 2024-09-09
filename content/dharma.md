@@ -5,10 +5,10 @@ draft = false
 layout = 'staticpage'
 +++
 
-present:
+**present:**
 
 - technological love
 - holistic technology project
 - kintsy van
 
-past:
+**past:**

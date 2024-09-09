@@ -1,9 +1,15 @@
 .cat {
   padding-top: 20px;
+
+  font-family: ShadowsIntoLight;
 }
 .cat h1 {
   text-align: center;
+  font-weight: 400;
+
+  font-size: 36px;
 }
+
 .cat h1 a:hover {
   text-decoration: none;
 }
@@ -15,7 +21,10 @@
 }
 .header-link {
   text-align: center;
-  font-size: 18px;
+
+  font-size: 24px;
+  letter-spacing: 1.5px;
+
   text-underline-offset: 7px;
 
   .active {
