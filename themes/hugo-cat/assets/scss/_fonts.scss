@@ -21,3 +21,19 @@
   font-display: swap;
   src: url("/fonts/ShadowsIntoLight-Regular.woff2") format("woff2");
 }
+
+@font-face {
+  font-family: "IndieFlower";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/IndieFlower-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "PlaypenSans";
+  font-style: normal;
+  font-weight: 200 400 500;
+  font-display: swap;
+  src: url("/fonts/PlaypenSans-VariableFont_wght.woff2") format("woff2");
+}
