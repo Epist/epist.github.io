@@ -33,11 +33,6 @@ name = "dharma"
 url = "/dharma/"
 weight = 3
 
-[[menu.main]]
-name = "perspective"
-url = "/perspective/"
-weight = 4
-
 [module]
   [module.hugoVersion]
     extended = true
