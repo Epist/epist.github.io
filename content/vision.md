@@ -6,8 +6,6 @@ layout = 'staticpage'
 tagline = 'growing love through technology'
 +++
 
-[Paragraph about my work]
+I believe that we can heal the world by learning to care more deeply for all of the parts that compose our world and that a crucial part of this care will be expressed through technology. Care is crafted from understanding, respect, and will, and once care is deep enough and in a generative reciprocal relationship, it gives rise to self-expanding love. My work focuses on the development of a holistic sociotechnical tree with roots of philosophical orientation, a trunk of theoretical structure, and technological leaves and fruit that offer nourishment and support to all parts of our world.
 
-We can heal the world by deepening our understanding and by guiding it with respect and moving with will.
-Technologies of togetherness.
-Living by following our hearts and walking the path as best we can.
+I believe that we can grow love through technologies of togetherness that help us to understand, respect, and care for each other, and I am doing my best to support the responsible development of such technologies so that we can move though these trying times towards a world where we are all well together.
