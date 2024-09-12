@@ -7,8 +7,15 @@ layout = 'staticpage'
 
 **present:**
 
+- Google DeepMind Responsibility Team
 - technological love
 - holistic technology project
-- kintsy van
 
 **past:**
+
+- Google Research Responsible AI
+- Lunchclub
+- Niantic
+- Jumpstart
+- Snap
+- Univeristy of California San Diego
