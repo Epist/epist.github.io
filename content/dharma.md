@@ -10,6 +10,7 @@ layout = 'staticpage'
 - Google DeepMind Responsibility Team
 - technological love
 - holistic technology project
+- kintsy
 
 **past:**
 
