@@ -2,7 +2,6 @@
   width: 100%;
   max-width: 650px;
   margin: 0 auto;
-  padding: 20px;
   box-sizing: border-box;
 
   text-align: justify;
@@ -11,12 +10,7 @@
 @media (max-width: 768px) {
   .container {
     max-width: 100%;
-    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
   }
 }
-// @media (max-width: 767px) {
-//   .container {
-//     max-width: 100%;
-//     padding: 15px 40px;
-//   }
-// }
