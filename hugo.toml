@@ -11,21 +11,21 @@ disableHugoGeneratorInject = false
 enableEmoji = true
 
 [params]
-ava = "/img/larry-shadow.jpg"
+ava = "/static/images/heartflower.svg"
 owner ="larry muhlstein"
-talk = "Hello guys &#128075; im cool kitty..."
+# talk = "Hello guys &#128075; im cool kitty..."
 blogSection = ["perspective"]
 # description = "larry muhlstein personal site"
 favicon = "/img/favicon.ico"
 
 [[menu.main]]
-name = "etiology"
+name = "vision"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "vision"
-url = "/vision/"
+name = "etiology"
+url = "/etiology/"
 weight = 2
 
 [[menu.main]]

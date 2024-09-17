@@ -1,0 +1,10 @@
+<div class="ava">
+  {{ $avaURL := .Params.ava | default .Site.Params.ava }} {{ $fileExt :=
+  path.Ext $avaURL }} {{ if eq $fileExt ".svg" }} {{ $svgContent := readFile
+  $avaURL }}
+  <div class="img-ava" style="width: 225px; height: 225px">
+    {{ $svgContent | safeHTML }}
+  </div>
+  {{ else }} <img src="{{ $avaURL | safeURL }}" width="225" height="225" alt="{{
+  .Site.Params.owner | default "Avatar" }}" class="img-ava" /> {{ end }}
+</div>

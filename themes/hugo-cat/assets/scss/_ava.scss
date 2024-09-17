@@ -6,11 +6,31 @@
   border-radius: 50%;
   margin-left: auto;
   margin-right: auto;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 20px 0;
   width: 225px;
+  // Prevent image from being dragged
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-select: none;
+
+  position: relative;
 }
+
+.img-ava svg {
+  height: 100%;
+  width: 100%; // Ensure the SVG takes full width of the container
+}
+
 .avatar {
   padding-bottom: 150px;
-  padding-top: 50px;
+  padding-top: 60px;
+}
+
+.ava {
+  padding-bottom: 30px;
 }

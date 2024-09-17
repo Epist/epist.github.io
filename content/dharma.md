@@ -12,6 +12,7 @@ layout = 'staticpage'
 - holistic technology project
 - kintsy
 
+\
 **past:**
 
 - Google Research Responsible AI
