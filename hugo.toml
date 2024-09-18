@@ -33,6 +33,11 @@ name = "dharma"
 url = "/dharma/"
 weight = 3
 
+[[menu.main]]
+name = "connect"
+url = "/connect/"
+weight = 4
+
 [module]
   [module.hugoVersion]
     extended = true
