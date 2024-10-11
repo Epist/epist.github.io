@@ -20,4 +20,4 @@ layout = 'staticpage'
 - Niantic
 - Jumpstart
 - Snap
-- Univeristy of California San Diego
+- University of California San Diego
