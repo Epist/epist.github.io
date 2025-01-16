@@ -7,14 +7,16 @@ layout = 'staticpage'
 
 **present:**
 
-- Google DeepMind Responsibility Team
-- technological love
-- holistic technology project
+- [holistic technology project](https://holistic.love)
+- [newfoundation](https://new.foundation)
+- [technological love](https://mind.technological.love)
+- heartflower
 - kintsy
 
 \
 **past:**
 
+- Google DeepMind Responsibility Team
 - Google Research Responsible AI
 - Lunchclub
 - Niantic
