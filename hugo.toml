@@ -34,7 +34,7 @@ url = "/dharma/"
 weight = 3
 
 [[menu.main]]
-name = "writing"
+name = "perspective"
 url = "/writing/"
 weight = 4
 
