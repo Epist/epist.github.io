@@ -8,10 +8,10 @@ layout = 'staticpage'
 **present:**
 
 - [holistic technology project](https://holistic.love)
-- [technological love](https://mind.technological.love)
 - [shelf](https://www.shelf.im)
 - [attuning.ai](https://attuning.ai)
 - [newfoundation](https://new.foundation)
+- [technological love](https://mind.technological.love)
 - heartflower
 
 \
