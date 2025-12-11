@@ -8,10 +8,11 @@ layout = 'staticpage'
 **present:**
 
 - [holistic technology project](https://holistic.love)
-- [newfoundation](https://new.foundation)
 - [technological love](https://mind.technological.love)
+- [shelf](https://www.shelf.im)
+- [attuning.ai](https://attuning.ai)
+- [newfoundation](https://new.foundation)
 - heartflower
-- kintsy
 
 \
 **past:**
@@ -23,3 +24,4 @@ layout = 'staticpage'
 - Jumpstart
 - Snap
 - University of California San Diego
+- kintsy
