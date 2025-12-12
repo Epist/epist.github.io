@@ -8,6 +8,7 @@ layout = 'staticpage'
 **present:**
 
 - [holistic technology project](https://holistic.love)
+- [bloomscroll](https://bloomscroll.com)
 - [shelf](https://www.shelf.im)
 - [attuning.ai](https://attuning.ai)
 - [newfoundation](https://new.foundation)
