@@ -18,11 +18,11 @@ layout = 'staticpage'
 \
 **past:**
 
-- Google DeepMind Responsibility Team
-- Google Research Responsible AI
-- Lunchclub
-- Niantic
-- Jumpstart
-- Snap
-- University of California San Diego
+- [Google DeepMind Responsibility Team](https://deepmind.google/responsibility-and-safety/)
+- [Google Research Responsible AI](https://research.google/teams/responsible-ai/)
+- [Lunchclub](https://lunchclub.com/)
+- [Niantic](https://nianticlabs.com/)
+- [Jumpstart/Untapped](https://www.untapped.io/)
+- [Snap](https://www.snapchat.com/)
+- [Cognitive Science Department at UCSD](https://cogsci.ucsd.edu/)
 - kintsy
