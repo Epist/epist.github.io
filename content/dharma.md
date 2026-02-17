@@ -12,7 +12,7 @@ layout = 'staticpage'
 - [shelf](https://www.shelf.im)
 - [attuning.ai](https://attuning.ai)
 - [newfoundation](https://new.foundation)
-- [technological love](https://mind.technological.love)
+- technological love
 - heartflower
 
 \
